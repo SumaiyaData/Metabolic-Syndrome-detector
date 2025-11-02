@@ -18,7 +18,11 @@ A machine learning project to predict Metabolic Syndrome using clinical and demo
 
 ✅ Pipeline Export: Preprocessing + model pipelines saved with pickle for easy deployment
 
-Performance
-Model	Accuracy	Precision (Class 1)	Recall (Class 1)	F1-Score (Class 1)
-Logistic Regression	0.85	0.73	0.85	0.79
-Random Forest	0.88	0.85	0.78	0.81
+**Performance**
+| Model               | Accuracy | Precision (Class 1) | Recall (Class 1) | F1-Score (Class 1) |
+| ------------------- | -------- | ------------------- | ---------------- | ------------------ |
+| Logistic Regression | 0.85     | 0.73                | 0.85             | 0.79               |
+| Random Forest       | 0.88     | 0.85                | 0.78             | 0.81               |
+
+**Dataset**
+Provided in the data/ folder: Metabolic Syndrome.csv
