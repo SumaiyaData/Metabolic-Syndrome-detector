@@ -25,4 +25,4 @@ A machine learning project to predict Metabolic Syndrome using clinical and demo
 | Random Forest       | 0.88     | 0.85                | 0.78             | 0.81               |
 
 **Dataset**
-Provided in the data/ folder: Metabolic Syndrome.csv
+Provided as Metabolic Syndrome.csv 
