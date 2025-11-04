@@ -26,3 +26,4 @@ A machine learning project to predict Metabolic Syndrome using clinical and demo
 
 **Dataset**
 Provided as Metabolic Syndrome.csv 
+*Dataset Collected from Kaggle: https://www.kaggle.com/datasets/antimoni/metabolic-syndrome/data*
